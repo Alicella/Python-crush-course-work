@@ -1,2 +1,4 @@
 # Python-crush-course-work
-Exercises for the book Python Crush Course
+Exercises and Project codes in the book Python Crush Course
+
+DO NOT use without notice.
