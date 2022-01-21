@@ -1,0 +1,3 @@
+In Python you can create classes and instances.
+In Python you can use functions for simplifications.
+In Python you can store functions and classes in modules to import to other programs.
