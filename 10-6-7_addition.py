@@ -2,6 +2,7 @@ from tkinter import Y
 
 
 def input_num():
+    """keep prompting the user to input an integer until they follow the instruction"""
     while True:
         m = input("Enter a number: ")
         try:
